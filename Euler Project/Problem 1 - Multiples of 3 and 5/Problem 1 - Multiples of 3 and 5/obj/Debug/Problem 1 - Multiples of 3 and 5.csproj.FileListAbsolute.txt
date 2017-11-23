@@ -1,0 +1,6 @@
+C:\Users\Arthur\Desktop\Euler Project\Problem 1 - Multiples of 3 and 5\Problem 1 - Multiples of 3 and 5\bin\Debug\Problem 1 - Multiples of 3 and 5.exe.config
+C:\Users\Arthur\Desktop\Euler Project\Problem 1 - Multiples of 3 and 5\Problem 1 - Multiples of 3 and 5\bin\Debug\Problem 1 - Multiples of 3 and 5.exe
+C:\Users\Arthur\Desktop\Euler Project\Problem 1 - Multiples of 3 and 5\Problem 1 - Multiples of 3 and 5\bin\Debug\Problem 1 - Multiples of 3 and 5.pdb
+C:\Users\Arthur\Desktop\Euler Project\Problem 1 - Multiples of 3 and 5\Problem 1 - Multiples of 3 and 5\obj\Debug\Problem 1 - Multiples of 3 and 5.exe
+C:\Users\Arthur\Desktop\Euler Project\Problem 1 - Multiples of 3 and 5\Problem 1 - Multiples of 3 and 5\obj\Debug\Problem 1 - Multiples of 3 and 5.pdb
+C:\Users\Arthur\Desktop\Euler Project\Problem 1 - Multiples of 3 and 5\Problem 1 - Multiples of 3 and 5\obj\Debug\Problem 1 - Multiples of 3 and 5.csprojResolveAssemblyReference.cache

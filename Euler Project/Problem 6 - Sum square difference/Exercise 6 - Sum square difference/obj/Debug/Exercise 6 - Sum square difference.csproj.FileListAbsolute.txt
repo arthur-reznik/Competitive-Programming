@@ -1,0 +1,6 @@
+I:\Exercise 6 - Sum square difference\Exercise 6 - Sum square difference\bin\Debug\Exercise 6 - Sum square difference.exe.config
+I:\Exercise 6 - Sum square difference\Exercise 6 - Sum square difference\bin\Debug\Exercise 6 - Sum square difference.exe
+I:\Exercise 6 - Sum square difference\Exercise 6 - Sum square difference\bin\Debug\Exercise 6 - Sum square difference.pdb
+I:\Exercise 6 - Sum square difference\Exercise 6 - Sum square difference\obj\Debug\Exercise 6 - Sum square difference.csprojResolveAssemblyReference.cache
+I:\Exercise 6 - Sum square difference\Exercise 6 - Sum square difference\obj\Debug\Exercise 6 - Sum square difference.exe
+I:\Exercise 6 - Sum square difference\Exercise 6 - Sum square difference\obj\Debug\Exercise 6 - Sum square difference.pdb

@@ -1,0 +1,5 @@
+C:\Users\Arthur\Desktop\Euler Project\Problem 4 - Largest Palindrome Product\Problem 4 - Largest Palindrome Product\bin\Debug\Problem 4 - Largest Palindrome Product.exe.config
+C:\Users\Arthur\Desktop\Euler Project\Problem 4 - Largest Palindrome Product\Problem 4 - Largest Palindrome Product\bin\Debug\Problem 4 - Largest Palindrome Product.exe
+C:\Users\Arthur\Desktop\Euler Project\Problem 4 - Largest Palindrome Product\Problem 4 - Largest Palindrome Product\bin\Debug\Problem 4 - Largest Palindrome Product.pdb
+C:\Users\Arthur\Desktop\Euler Project\Problem 4 - Largest Palindrome Product\Problem 4 - Largest Palindrome Product\obj\Debug\Problem 4 - Largest Palindrome Product.exe
+C:\Users\Arthur\Desktop\Euler Project\Problem 4 - Largest Palindrome Product\Problem 4 - Largest Palindrome Product\obj\Debug\Problem 4 - Largest Palindrome Product.pdb

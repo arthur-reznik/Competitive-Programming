@@ -4,14 +4,14 @@ using namespace std;
 
 
 int main(){
-    int a,b,c;
-    scanf("%d %d",&a,&b);
-    while(a != 0 && b != 0){
-        c = a + b;
-        while(c % 10 == 0){
-            c = c / 10;
+    long long int a,b;
+    while( cin >> a >> b && ( a+b ) ){
+        string soma = to_string(a+b);
+        for(int i=0; i< soma.size(); i++){
+            if(soma[i] != '0')
+                cout << soma[i];
         }
-        printf("%d\n",c);
-        scanf("%d %d",&a,&b);
+
+        cout << endl;
     }
 }
